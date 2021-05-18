@@ -107,6 +107,36 @@ Blanchard, Gilles, Aniket Anand Deshmukh, Urun Dogan, Gyemin Lee, and Clayton Sc
 [[code]](https://github.com/aniketde/DomainGeneralizationMarginal)
 
 ### Computer vision venues
+#### Unclassified
+ - [Adaptive Methods for Real-World Domain Generalization](https://arxiv.org/pdf/2103.15796) 
+ Abhimanyu Dubey, Vignesh Ramanathan, Alex Pentland, Dhruv Mahajan
+ *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+
+  - [RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening ](https://arxiv.org/pdf/2103.15597) 
+Sungha Choi, Sanghun Jung, Huiwon Yun, Joanne Kim, Seungryong Kim, Jaegul Choo
+ *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+ 
+  - [Uncertainty-guided Model Generalization to Unseen Domains](https://arxiv.org/pdf/2103.07531) 
+  Fengchun Qiao, Xi Peng
+ *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+ 
+ 
+  - [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space ](https://arxiv.org/pdf/2103.06030) 
+ Quande Liu, Cheng Chen, Jing Qin, Qi Dou, Pheng-Ann Heng
+ *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+ 
+ 
+  - [Domain Generalization via Inference-time Label-Preserving Target Projections ](https://arxiv.org/pdf/2103.01134) 
+Prashant Pandey, Mrigank Raman, Sumanth Varambally, Prathosh AP
+ *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+ 
+ 
+  - [Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification ](https://arxiv.org/pdf/2012.00417) 
+  Yuyang Zhao, Zhun Zhong, Fengxiang Yang, Zhiming Luo, Yaojin Lin, Shaozi Li, Nicu Sebe
+ *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**) 2021.
+ 
+ 
+ 
 
 #### Autoencoder-based methods
 
